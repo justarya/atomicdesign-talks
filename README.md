@@ -1,5 +1,7 @@
-# Atomic Design
+# Scalable Frontend with Atomic Design
 Thanks for watching my talks at JakartaJS.
+
+
 
 ## Refrences
 
@@ -12,6 +14,12 @@ https://dev.to/miladalizadeh/vue-cli-30-plugin-for-creating-apps-using-atomic-de
 - Atomic Design - React
 https://cheesecakelabs.com/blog/rethinking-atomic-design-react-projects/
 
+- Storybook
+https://storybook.js.org/
+
+- Jest
+https://jestjs.io/
+
 ---
-Want to contact me?
+Want to talk more? Contact me at
 linkedin.com/in/justarya
