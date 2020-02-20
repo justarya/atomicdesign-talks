@@ -1,7 +1,8 @@
 # Scalable Frontend with Atomic Design
 Thanks for watching my talks at JakartaJS.
 
-
+## Talks Powerpoint
+http://bit.ly/atomic-design-js-ppt
 
 ## Article Refrences
 
